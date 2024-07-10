@@ -8,7 +8,7 @@ The ICASSP 2024 Auditory EEG Decoding Challenge is a cutting-edge competition fo
 
 ### Objective
 The primary goal is to develop advanced algorithms capable of decoding auditory information from electroencephalography (EEG) data. Participants are tasked with creating models that can accurately predict auditory stimuli based on recorded brain activity.
-![Auditory EEG Decoding Challenge Logo](Images\task_matchmismatch.png)
+![Auditory EEG Decoding Challenge Logo](Images/task_matchmismatch.png)
 
 
 ### Dataset
@@ -39,7 +39,7 @@ By participating in this challenge, our team aims to contribute to the cutting-e
 We tried through 2 Possible Approaches 
 ### Resnet + Cosine Similarity 
 We used Resnet as a feature extractor and then used Cosine Similarity to find the similarity between them. 
-![Resnet+Cosine Similarity](Images\download.jpg)
+![Resnet+Cosine Similarity](Images/download.jpg)
 ### SpeechFFR+Attention
 We used SpeechFFR as a feature extractor and then used Attention to find the similarity between them.
 ![SpeechFFR+Attention](Images/Speech-Recognition-Architecture.png)
